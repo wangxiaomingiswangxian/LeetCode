@@ -1,3 +1,5 @@
+package com.alorithm.easy;
+
 /**
  * 获取数组中位数
  *

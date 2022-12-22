@@ -1,5 +1,7 @@
+package com.alorithm.easy;
 
 /**
+ *
  * @author 王贤
  */
 public class ParkingSystem {
